@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.004 - User want to Register with Registered email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>295df83e-beff-4714-8718-783f1edd1532</testCaseGuid>
+</TestCaseEntity>

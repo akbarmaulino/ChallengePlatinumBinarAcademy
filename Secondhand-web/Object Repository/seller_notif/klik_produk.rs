@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>klik_produk</name>
+   <tag></tag>
+   <elementGuidId>3fc13a4c-342c-4039-8792-508df87cc726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.notification-body.fs-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ae7abd1-2f40-415d-94a5-bebfdc99cf05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-body fs-5</value>
+      <webElementGuid>39dcf77b-0ebd-45bc-899d-8e5b9852e444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kopi gantengRp 12.222Ditawar Rp 22.222</value>
+      <webElementGuid>61b3672c-4aa0-4c1e-b3a7-d2cbaf7532cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-body me-4&quot;]/div[@class=&quot;notification-body fs-5&quot;]</value>
+      <webElementGuid>cab741c2-a0d7-46b1-87da-4642b8c6719e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div/div[2]</value>
+      <webElementGuid>d349117d-95a6-4318-a55a-8b677d4a981e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran produk'])[1]/following::div[1]</value>
+      <webElementGuid>318f57e3-2fc5-4fca-a91c-f4ec2a212949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[2]/following::div[3]</value>
+      <webElementGuid>ddff6017-866a-4c54-b8e3-9ffe87baeb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil di terbitkan'])[1]/preceding::div[2]</value>
+      <webElementGuid>4a46456e-fa73-4c6a-b373-0b823f2fe355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kopi gantengRp 12.222'])[1]/preceding::div[3]</value>
+      <webElementGuid>e85468b1-a806-417a-b0e2-f684eec23e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>85225ebf-2cff-407a-a1d6-16a3eace276f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'kopi gantengRp 12.222Ditawar Rp 22.222' or . = 'kopi gantengRp 12.222Ditawar Rp 22.222')]</value>
+      <webElementGuid>5b375ac9-49cb-4b8c-bb61-7769f48ef4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

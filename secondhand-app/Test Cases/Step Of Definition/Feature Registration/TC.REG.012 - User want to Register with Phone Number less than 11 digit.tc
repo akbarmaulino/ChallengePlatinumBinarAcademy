@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.012 - User want to Register with Phone Number less than 11 digit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d25279d2-1e6c-42f5-9d4b-9b59107a6d12</testCaseGuid>
+</TestCaseEntity>

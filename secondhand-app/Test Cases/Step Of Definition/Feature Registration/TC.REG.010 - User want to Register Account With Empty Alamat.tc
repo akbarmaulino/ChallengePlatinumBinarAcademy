@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.010 - User want to Register Account With Empty Alamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71584b8f-e166-481c-92ff-3e4a3216d4a3</testCaseGuid>
+</TestCaseEntity>

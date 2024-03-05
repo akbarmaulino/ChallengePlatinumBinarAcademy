@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Hobi</name>
+   <tag></tag>
+   <elementGuidId>5b79af8e-2bdc-44a1-8af7-0f7c1004fec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-alt-primary.col.rounded-4.py-2.px-4.d-inline-flex.align-items-center.active > i.bi.bi-search.me-3.fs-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6e27d631-30c9-46c3-a109-27e1adca6bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-search me-3 fs-4</value>
+      <webElementGuid>5a686dd9-5fdc-41e1-b5e5-8440fe9ed96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container&quot;]/nav[@class=&quot;nav row gap-4 px-2 px-lg-0&quot;]/a[@class=&quot;btn btn-alt-primary col rounded-4 py-2 px-4 d-inline-flex align-items-center active&quot;]/i[@class=&quot;bi bi-search me-3 fs-4&quot;]</value>
+      <webElementGuid>ba45aa5d-bb52-4e51-96c7-3014618f2cd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>a83d610a-928b-4f61-a141-9d061ebcf2bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

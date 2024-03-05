@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.005 - User want to Register Account With Empty Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22e8f42e-4d7d-4805-9761-21ac6521d99f</testCaseGuid>
+</TestCaseEntity>

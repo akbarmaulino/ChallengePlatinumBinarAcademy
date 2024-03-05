@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.008 - User want to Register Account With Empty Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>737f212d-c298-4f85-8211-8832c105d84b</testCaseGuid>
+</TestCaseEntity>

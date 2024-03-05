@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.002 - User want to Register account with wrong Format Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e87f1b4a-229f-45b3-86d0-d3a9ae539024</testCaseGuid>
+</TestCaseEntity>

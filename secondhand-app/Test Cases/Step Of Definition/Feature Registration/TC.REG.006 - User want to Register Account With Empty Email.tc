@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.006 - User want to Register Account With Empty Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6f466bc-3f60-404c-9c94-0a10ff4675f2</testCaseGuid>
+</TestCaseEntity>
